@@ -2,13 +2,6 @@
 <p align="center"> 
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450">
 
-## 📚 Table of Contents
-- [Business Task](#business-task)
-- [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Question and Solution](#question-and-solution)
-
-
-
 ## Question and Solution
 Relational database management system used for solving queries - Postgresql
 If you have any questions, ping me or connect with me on  [LinkedIn](www.linkedin.com/in/aiwithvivek).
